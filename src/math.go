@@ -1,17 +1,14 @@
-package main
+package mymath
 
 import (
 	"fmt"
 	"math/big"
 	"math/cmplx"
-	_ "math/cmplx"
 	"math/rand"
-	_ "math/rand"
 	"time"
-	_ "time"
 )
 
-func main() {
+func MathTesting() {
 	bigInt()
 	primeCheck()
 	bigFloat()
