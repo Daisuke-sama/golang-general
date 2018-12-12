@@ -1,0 +1,1 @@
+my training tasks in golang. Go v1.11 is used.
